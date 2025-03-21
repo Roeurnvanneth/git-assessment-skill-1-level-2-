@@ -4,8 +4,8 @@
 
 
 
-🚀 A collaboartive project designed to learn Github workflows ,handle pull requests , and resolve
- merge confiicts
+🚀 -A collaboartive project designed to learn Github workflows ,handle pull requests , and resolve
+ merge confiicts-
  
 # 📜 Table of contat
 *   [Introduction](https://markdownlivepreview.com/).
