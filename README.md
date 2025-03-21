@@ -1,6 +1,6 @@
 
 
-# git assessment project
+# Git Assessment Project
 
 
 
@@ -77,4 +77,5 @@ Clone the project to your local machine:
 
 ```bash
 git clone https://github.com/Roeurnvanneth/git-assessment-skill-1-level-2-.git
+```
 
